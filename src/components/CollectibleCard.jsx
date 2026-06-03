@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ASSETS } from '../game/constants.js';
+import { ASSETS, publicAsset } from '../game/constants.js';
 
 const videoExtensions = ['.mp4', '.webm', '.ogg'];
 
@@ -11,8 +11,9 @@ function isVideoPath(path = '') {
 export default function CollectibleCard({ collectible, onClose, isFinal }) {
   const [mediaFailed, setMediaFailed] = useState(false);
   const starNumber = String(collectible.id).padStart(2, '0');
-  const mediaPath = collectible.image || ASSETS.cards.fallback;
-  const isVideo = isVideoPath(mediaPath);
+  const rawMediaPath = collectible.image || ASSETS.cards.fallback;
+  const mediaPath = publicAsset(rawMediaPath);
+  const isVideo = isVideoPath(rawMediaPath);
 
   return (
     <div className="card-modal" role="dialog" aria-modal="true" aria-label={collectible.title}>
