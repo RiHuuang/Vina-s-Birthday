@@ -39,6 +39,8 @@ export default function CollectibleCard({ collectible, onClose, isFinal }) {
             <img
               src={mediaPath}
               alt=""
+              loading="lazy"
+              decoding="async"
               draggable="false"
               onDragStart={(event) => event.preventDefault()}
               onError={() => setMediaFailed(true)}
