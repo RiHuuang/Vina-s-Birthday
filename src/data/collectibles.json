@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "type": "star",
+    "title": "Moonlit Smile",
+    "image": "/assets/memories/Her_laugh.jpg",
+    "description": "Your smile makes the world softer.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 2,
+    "type": "star",
+    "title": "Pocket Laugh",
+    "image": "/assets/memories/IMG-20260523-WA0098.jpg",
+    "description": "Your laugh is one of my favorite sounds.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 3,
+    "type": "star",
+    "title": "Tiny Sunday Magic",
+    "image": "/assets/memories/IMG_20250301_200139.jpg",
+    "description": "You make simple moments feel special.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 4,
+    "type": "star",
+    "title": "Soft Bloom Heart",
+    "image": "/assets/memories/IMG_20251115_123933.jpg",
+    "description": "You are beautiful in ways words cannot fully explain.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 5,
+    "type": "star",
+    "title": "Gentle Hands",
+    "image": "/assets/memories/IMG_20260315_163039.jpg",
+    "description": "I love how you care.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 6,
+    "type": "star",
+    "title": "Little Habit Charm",
+    "image": "/assets/memories/IMG_20260318_113626.jpg",
+    "description": "I love your cute little habits.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 7,
+    "type": "star",
+    "title": "Quiet Harbor",
+    "image": "/assets/memories/IMG_20260411_180814.jpg",
+    "description": "I love the way you make me feel calm.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 8,
+    "type": "star",
+    "title": "Brave Little Light",
+    "image": "/assets/memories/IMG_20260528_080058.jpg",
+    "description": "I am proud of the person you are becoming.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 9,
+    "type": "star",
+    "title": "Velvet Promise",
+    "image": "/assets/memories/IMG_20260603_193859.jpg",
+    "description": "You deserve to be loved gently and fully.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 10,
+    "type": "star",
+    "title": "Lucky Constellation",
+    "image": "/assets/memories/LENSCAPE-01-6777.jpg",
+    "description": "I am lucky to know you.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 11,
+    "type": "star",
+    "title": "Better Day Lantern",
+    "image": "/assets/memories/MVIMG_20251005_181444.jpg",
+    "description": "You make my days better.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 12,
+    "type": "star",
+    "title": "Favorite Memory Leaf",
+    "image": "/assets/memories/MVIMG_20251018_173920.jpg",
+    "description": "You are my favorite part of many memories.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 13,
+    "type": "star",
+    "title": "Wish in Pink Clouds",
+    "image": "/assets/memories/MVIMG_20260221_132239.jpg",
+    "description": "I hope this year gives you more reasons to smile.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 14,
+    "type": "star",
+    "title": "Dreamcatcher Glow",
+    "image": "/assets/memories/MVIMG_20260222_143037.jpg",
+    "description": "I hope your dreams get closer.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 15,
+    "type": "star",
+    "title": "Today Loves You",
+    "image": "/assets/memories/MVIMG_20260315_191523.jpg",
+    "description": "I hope you feel loved today.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 16,
+    "type": "star",
+    "title": "Never Forget Spark",
+    "image": "/assets/memories/MVIMG_20260412_172107_1.jpg",
+    "description": "I hope you never forget how special you are.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 17,
+    "type": "star",
+    "title": "Thank-You Petal",
+    "image": "/assets/memories/MVIMG_20260412_173837.jpg",
+    "description": "Thank you for being you.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 18,
+    "type": "star",
+    "title": "Stayed Beside Me",
+    "image": "/assets/memories/MVIMG_20260419_180834.jpg",
+    "description": "Thank you for staying.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 19,
+    "type": "star",
+    "title": "Sugarlight Trail",
+    "image": "/assets/memories/MVIMG_20260527_174953.jpg",
+    "description": "Thank you for making life sweeter.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 20,
+    "type": "star",
+    "title": "Tomorrow's Keepsake",
+    "image": "/assets/memories/MVIMG_20260528_191123.jpg",
+    "description": "I want to keep making memories with you.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 21,
+    "type": "star",
+    "title": "Many Candles Ahead",
+    "image": "/assets/memories/Screenshot_2026-06-03-19-30-24-266_com.whatsapp.jpg",
+    "description": "I hope I can be part of many more birthdays.",
+    "rarity": "Birthday Star",
+    "found": false
+  },
+  {
+    "id": 22,
+    "type": "star",
+    "title": "The Hidden Birthday Sun",
+    "image": "/assets/memories/VID_20260603_192729.mp4",
+    "description": "You are the birthday star.",
+    "rarity": "Final Star",
+    "found": false
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "title": "The 22nd Birthday",
+  "recipientName": "[HER_NAME]",
+  "opening": [
+    "Deep inside a tiny pixel forest, the trees whispered softly under the stars.",
+    "Every year, this forest waited for one special day.",
+    "A day when 22 little stars would appear between the leaves.",
+    "Each star carried a memory.",
+    "Each memory carried a feeling.",
+    "And every feeling pointed to one person...",
+    "Her.",
+    "Tonight, the forest is waiting for her to find all 22 stars.",
+    "When the final star is found, the birthday sky will shine again."
+  ],
+  "ending": [
+    "The 22 stars returned to the forest sky.",
+    "The trees glowed softly.",
+    "The flowers opened under the moonlight.",
+    "The path became warm again.",
+    "And finally, the birthday star appeared.",
+    "It was never really hidden.",
+    "It was you.",
+    "Happy 22nd Birthday, {recipientName}."
+  ],
+  "finalFinalEnding": [
+    "You've finished the adventure.",
+    "Now open the car's glovebox."
+  ]
+}
