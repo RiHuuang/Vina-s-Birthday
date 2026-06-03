@@ -7,9 +7,21 @@ export function publicAsset(path) {
   if (path.startsWith('./') || path.startsWith('../')) return path;
 
   const baseUrl = import.meta.env.BASE_URL || '/';
-  const normalizedBase = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
   const normalizedPath = path.replace(/^\/+/, '');
 
+  if (baseUrl === './' && typeof window !== 'undefined') {
+    const currentPath = window.location.pathname;
+    const lastSegment = currentPath.split('/').pop() || '';
+    const directoryPath = currentPath.endsWith('/')
+      ? currentPath
+      : lastSegment.includes('.')
+        ? `${currentPath.replace(/\/[^/]*$/, '')}/`
+        : `${currentPath}/`;
+
+    return `${directoryPath}${normalizedPath}`;
+  }
+
+  const normalizedBase = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
   return `${normalizedBase}${normalizedPath}`;
 }
 
