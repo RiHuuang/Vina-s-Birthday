@@ -26,7 +26,7 @@ const endingStarPositions = [
 
 export default function EndingScene({ story, onComplete }) {
   const [lineIndex, setLineIndex] = useState(0);
-  const recipient = story.recipientName || '[HER_NAME]';
+  const recipient = story.recipientName || 'Vina';
   const lines = story.ending.map((line) => line.replace('{recipientName}', recipient));
   const isLastLine = lineIndex >= lines.length - 1;
 

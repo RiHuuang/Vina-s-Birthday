@@ -41,7 +41,7 @@ export const ASSETS = {
     fallback: '/assets/cards/fallback-card.png',
   },
   audio: {
-    bgm: '/assets/audio/bgm.ogg',
+    bgm: '/assets/audio/bgm-flowerbed-fields.ogg',
     collect: '/assets/audio/collect.wav',
     cardOpen: '/assets/audio/card-open.wav',
     success: '/assets/audio/success.wav',

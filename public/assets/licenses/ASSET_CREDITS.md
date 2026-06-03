@@ -2,11 +2,11 @@
 
 ## Audio
 
-- Asset name: `relax_background1`
-- Author: joaquinton
-- Source URL: https://opengameart.org/content/relaxbackground1-0
+- Asset name: `Flowerbed Fields [Loop]`
+- Author: Zane Little Music
+- Source URL: https://opengameart.org/content/flowerbed-fields-loop
 - License: CC0 / Public Domain
-- File used: `public/assets/audio/bgm.ogg`
+- File used: `public/assets/audio/bgm-flowerbed-fields.ogg`
 - Attribution: Not required for CC0, but credited here for traceability.
 
 ## Placeholder Art
